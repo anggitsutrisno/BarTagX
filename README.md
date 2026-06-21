@@ -1,2 +1,1 @@
 # BarTagX
-BarTagX
